@@ -1,1 +1,1 @@
-http://rallycoding.herokuapp.com/api/music_albums
+http://rallycoding.herokuapp.com/api/music_album 
